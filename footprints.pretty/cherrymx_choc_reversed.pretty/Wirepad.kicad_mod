@@ -1,0 +1,9 @@
+(module "Footprints:Wirepad" (layer F.Cu) (tedit 5EB0373B)
+  (fp_text reference "Row113" (at 0 1.778) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value "Conn_01x01" (at 0 -1.778) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "1" thru_hole circle (at 0 0.2 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 6ec5f96f-4e9c-4c7e-b66b-99f9f46c8009))
+)

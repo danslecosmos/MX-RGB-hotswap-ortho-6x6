@@ -1,0 +1,17 @@
+(module "Footprints:CherryMx_Socket" (layer F.Cu) (tedit 5EB0BC5C)
+  (fp_text reference "SW1" (at 0 3.175 180) (layer F.SilkS) hide
+    (effects (font (size 1.5 1.5) (thickness 0.2)))
+  )
+  (fp_text value "SW_Push" (at 0 -2.54) (layer Cmts.User) hide
+    (effects (font (size 0.5 0.5) (thickness 0.1)))
+  )
+  (fp_arc (start 0 0) (end 0.25 0) (angle -180) (layer B.SilkS) (width 0.1))
+  (fp_arc (start 0 0) (end -0.25 0) (angle -180) (layer B.SilkS) (width 0.1))
+  (pad "1" smd rect (at -7.36 -2.54) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 98d14d88-d8e3-4668-9bc0-86a1fa8193c9))
+  (pad "2" smd rect (at 6.09 -5.08) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 56b570f4-8c69-404b-8827-6eaaccabaf15))
+  (pad "" np_thru_hole circle (at -5.08 0) (size 2 2) (drill 2) (layers *.Cu *.Mask) (tstamp bce6fa17-34aa-405a-818b-5006cf5d3c5b))
+  (pad "" np_thru_hole circle (at -3.81 -2.54) (size 3 3) (drill 3) (layers *.Cu *.Mask) (tstamp bf97543e-0a73-4ed9-9bed-aa0c7531d6bc))
+  (pad "" np_thru_hole circle (at 0 0) (size 4 4) (drill 4) (layers *.Cu *.Mask) (tstamp 74807172-f43b-4692-9743-ac712711836d))
+  (pad "" np_thru_hole circle (at 2.54 -5.08) (size 3 3) (drill 3) (layers *.Cu *.Mask) (tstamp 3d3077c3-9458-4ef8-b31f-28e960f18581))
+  (pad "" np_thru_hole circle (at 5.08 0) (size 2 2) (drill 2) (layers *.Cu *.Mask) (tstamp 2b0efe99-d97d-40b9-a416-94b16d962e81))
+)

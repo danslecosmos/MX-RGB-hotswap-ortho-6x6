@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "customs")(type "Legacy")(uri "${KIPRJMOD}/customs.pretty/customs.lib")(options "")(descr ""))
+  (lib (name "keebio")(type "Legacy")(uri "${KIPRJMOD}/customs.pretty/keebio.lib")(options "")(descr ""))
+  (lib (name "nice_nano")(type "Legacy")(uri "${KIPRJMOD}/customs.pretty/nice_nano.lib")(options "")(descr ""))
+  (lib (name "switches")(type "KiCad")(uri "${KIPRJMOD}/libs/switches.kicad_sym")(options "")(descr ""))
+)

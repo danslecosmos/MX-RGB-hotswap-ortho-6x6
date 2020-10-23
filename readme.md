@@ -1,3 +1,5 @@
+This is a very rushed github. No guarantees
+
 ## Hotswap PCBs:
 
     The Hot-Swap PCBs are sold in packs of 36. They are compatible with all ortholinear MX keyboard cases which use the standard 19.05mm spacing, and are break-away – make it any size you want !
@@ -39,3 +41,8 @@ The Gnd, Vcc, Rows and cols, and RGB will work exactly the same.
  
 
 ## Wiring example for a 6×6 board:
+![Pic](pics/wiring-2.png)
+
+
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
